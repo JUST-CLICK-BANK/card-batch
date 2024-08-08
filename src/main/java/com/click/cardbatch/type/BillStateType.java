@@ -1,4 +1,4 @@
-package com.click.cardbatch.domain.type;
+package com.click.cardbatch.type;
 
 public enum BillStateType {
     WAITING("결제 대기중"),

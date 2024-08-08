@@ -1,5 +1,4 @@
-package com.click.cardbatch.domain.type;
-
+package com.click.cardbatch.type;
 
 import lombok.Getter;
 
